@@ -8,7 +8,7 @@
 
 2. [거스름돈 계산](https://github.com/Seol7523/InformClassExample/blob/main/%ED%91%9C%EC%A4%80%EC%9E%85%EC%B6%9C%EB%A0%A5(%2B%EC%97%B0%EC%82%B0%EC%9E%90)/MoneyChange.c)
 
-3. [비트 시프트 연산자 놀이터]((https://github.com/Seol7523/InformClassExample/blob/main/%ED%91%9C%EC%A4%80%EC%9E%85%EC%B6%9C%EB%A0%A5(%2B%EC%97%B0%EC%82%B0%EC%9E%90)/bitshift.c)
+3. [비트 시프트 연산자 놀이터](https://github.com/Seol7523/InformClassExample/blob/main/%ED%91%9C%EC%A4%80%EC%9E%85%EC%B6%9C%EB%A0%A5(%2B%EC%97%B0%EC%82%B0%EC%9E%90)/bitshift.c)
 
 ### TMI
 
