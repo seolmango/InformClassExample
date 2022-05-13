@@ -9,3 +9,5 @@
 2. [숫자덧셈](https://github.com/Seol7523/InformClassExample/blob/main/%ED%95%A8%EC%88%98/SumNums.c)
 
 3. [팩토리얼](https://github.com/Seol7523/InformClassExample/blob/main/%ED%95%A8%EC%88%98/Factorial.c)
+
+4. [조합](https://github.com/Seol7523/InformClassExample/blob/main/%ED%95%A8%EC%88%98/Combination.c)

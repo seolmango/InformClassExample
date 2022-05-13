@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-long long int factorial();
+long long int factorial(int);
 
 int main()
 {
