@@ -12,7 +12,11 @@
 
 [반복문 코드들](https://github.com/Seol7523/InformClassExample/tree/main/%EB%B0%98%EB%B3%B5%EB%AC%B8)
 
+[함수 코드들]()
+
 [예제 코드들](https://github.com/Seol7523/InformClassExample/tree/main/%EC%A7%84%EC%A7%9C%20%EC%98%88%EC%A0%9C)
+
+[연습문제들](https://github.com/Seol7523/InformClassExample/tree/main/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C)
 
 ### 주의
 
